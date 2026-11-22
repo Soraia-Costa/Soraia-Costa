@@ -28,7 +28,7 @@ Atualmente, estou direcionando meus estudos para **Análise de Dados e Cloud Com
 - Amazon VPC
 - Security Groups
 - IAM
-- S3
+- Amazon S3
 
 **Outras ferramentas**
 - Git e GitHub
