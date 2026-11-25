@@ -1,6 +1,6 @@
 # Olá! Eu sou a Soraia Costa 👋
 
-Sou estudante de **Engenharia da Computação na UNIVESP** e de **Técnico em Desenvolvimento de Sistemas na FAT**, em transição de carreira para a área de Tecnologia.
+Sou estudante de **Engenharia da Computação na UNIVESP** e tambem realizo **Técnico em Desenvolvimento de Sistemas na FAT**, em transição de carreira para a área de Tecnologia.
 
 Atualmente, estou direcionando meus estudos para **Análise de Dados e Cloud Computing**, desenvolvendo conhecimentos por meio de cursos, exercícios e projetos práticos.
 
