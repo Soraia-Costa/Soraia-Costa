@@ -39,7 +39,7 @@ Atualmente, estou direcionando meus estudos para **Análise de Dados e Cloud Com
 Aqui compartilho meus estudos, exercícios e projetos desenvolvidos durante minha jornada de aprendizado:
 
 - 📊 [Análise de Dados – Programaria](https://github.com/Soraia-Costa/Analise-de-dados_Programaria)
-- ☁️ [AWS Sandbox e laboratórios de Cloud Computing](COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_AWS)
+- ☁️ [AWS Cloud Practitioner – Laboratórios de Cloud Computing](https://github.com/Soraia-Costa/AWS-Cloud-Practitioner)
 
 ## 🎯 Objetivo profissional
 
